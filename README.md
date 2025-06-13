@@ -16,17 +16,6 @@
 - Tailwind CSS
 - npm (Node Package Manager)
 
-## 📂 Struktur Proyek
-BAI-STUDIO/
-├── img/ # Gambar & aset
-├── node_modules/ # Dependency (tidak di-push ke GitHub)
-├── src/
-│ ├── index.html # Halaman utama
-│ ├── input.css # File Tailwind source
-│ └── output.css # CSS hasil build
-├── package.json # Konfigurasi npm
-└── package-lock.json # Auto-generated lock file
-
 ## 🚀 Cara Menjalankan Proyek
 
 1. Clone repository:
@@ -43,6 +32,4 @@ BAI-STUDIO/
    
 5. Buka index.html di browser untuk melihat hasilnya.
 
-📸 Tentang BaiStudio
-Fotografi bukan sekadar pekerjaan—ini adalah seni melihat keindahan dalam hal-hal kecil dan menjadikannya abadi.
 
