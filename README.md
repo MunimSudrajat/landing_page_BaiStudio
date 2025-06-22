@@ -1,6 +1,7 @@
 # BaiStudio - Landing Page Fotografi
 
 **BaiStudio** adalah sebuah landing page modern yang dirancang untuk layanan fotografi. Website ini dibuat dengan pendekatan desain minimalis, responsif, dan sederhana. Cocok digunakan sebagai website portofolio fotografer, maupun inspirasi UI kreatif.
+![Image](https://github.com/user-attachments/assets/4f170064-b967-4e9e-b64b-f32607e9e6f0)
 
 ✨ Fitur Utama
 
